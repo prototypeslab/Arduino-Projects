@@ -1,0 +1,27 @@
+# Operating system metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Local IDE state
+.vs/
+xcuserdata/
+*.xcuserstate
+*.suo
+*.user
+
+# Generated C# application builds
+/03_StepperHubSTM32/CSharpSerialController/CSharpArduinoController/bin/
+/03_StepperHubSTM32/CSharpSerialController/CSharpArduinoController/obj/
+
+# Intermediate embedded build files
+*.o
+*.d
+*.crf
+*.dep
+
+# Local credentials
+.env
+.env.*
+!.env.example

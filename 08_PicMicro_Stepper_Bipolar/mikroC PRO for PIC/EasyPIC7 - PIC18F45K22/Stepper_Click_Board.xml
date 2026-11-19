@@ -1,0 +1,13 @@
+<Stepper_Click_Board>
+	<Attributes>
+		<Url>http://www.mikroe.com/click/stepper/</Url>
+		<Image>Stepper Click Board.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick>None</OnLeftClick>
+		<OnRightClick>None</OnRightClick>
+		<OnDblClick>OpenUrl</OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</Stepper_Click_Board>
